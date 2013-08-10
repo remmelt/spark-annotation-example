@@ -8,6 +8,7 @@
 	<artifactId>spark-annotation-example</artifactId>
 	<packaging>war</packaging>
 	<version>1.0</version>
+	<name>spark-annotation-example</name>
 
 	<dependencies>
 		<dependency>
